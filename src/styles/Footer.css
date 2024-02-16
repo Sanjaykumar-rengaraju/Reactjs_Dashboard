@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+
+.img{
+    width:100px;
+    height:100px;
+}
+ul{
+    list-style: none;
+}
+.head{
+    color : #00df9a;
+}
+.font{
+    font-family:Verdana, Geneva, Tahoma, sans-serif !important;
+}

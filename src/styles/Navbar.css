@@ -1,0 +1,31 @@
+.color{
+    color : #00df9a;
+    font-size: 22px;
+    gap : 30px;
+}
+.color-title{
+    color : #00df9a;
+    font-size: 34px;
+    gap: 20px;
+}
+.nav-elements{
+    gap : 20px;
+}
+.title-txt{
+    font-size:48px;
+    text-align: center;
+    color : #00df9a;
+    margin-top:10px;
+}
+.color-nav{
+    color:black;
+}
+@media screen and (max-width: 720px) {
+    img {
+         width: 60px;
+         height:60px;
+    }
+    .title-txt{
+        font-size: 28px;
+    }
+}

@@ -1,0 +1,50 @@
+*{
+    text-align: center;
+}
+
+
+.text-pp{
+    color : #00df9a;
+    font-size : 32px;
+}
+
+.text-rc{
+    color : black;
+    font-size : 48px;
+}
+
+.text-rf{
+    color :  black;
+    font-size: 24px;
+}
+
+.text-rn{
+    margin-top : 25px;
+    color :  black;
+    font-size: 28px;
+}
+
+@media screen and (max-width: 720px) {
+    .mob-img{
+        width : 200px;
+        height : 200px;
+    }
+    .text-pp{
+        color : #00df9a;
+        font-size : 32px;
+    }
+    .text-rc{
+        color : black;
+        font-size : 48px;
+    }
+    .text-rf{
+        color :  black;
+        font-size: 24px;
+    }
+    
+    .text-rn{
+        margin-top : 25px;
+        color :  black;
+        font-size: 28px;
+    }
+}

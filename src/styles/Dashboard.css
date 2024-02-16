@@ -1,0 +1,43 @@
+.db-cn{
+    font-size: 60px;
+    color : Black;
+}
+
+.db-tit{
+    font-size:72px;
+    color : #00DF9A;
+}
+
+.db-tt{
+    font-size:48px;
+    color : black;
+}
+
+.db-date{
+    font-size:24px;
+    color : gray;
+}
+
+.db-btn{
+    font-size: 24px;
+    padding:10px 40px;
+    background-color : #00DF9A;
+    color : black;
+}
+
+.db-rd{
+    font-size:24px;
+    color:black;
+}
+
+.gap-h1,.gap-tt{
+    padding : 15px;
+}
+
+.gap-date,.gap-rd{
+    padding : 15px;
+}
+
+.align{
+    justify-content: center;
+}

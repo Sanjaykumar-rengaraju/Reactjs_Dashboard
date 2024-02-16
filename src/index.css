@@ -1,0 +1,11 @@
+@font-face {
+  font-family: ruinesfont;
+  src: url(./fonts/LRFT.ttf);
+}
+
+*{
+  font-family: ruinesfont,sans-serif;
+  margin : 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,39 @@
+/* Add this to your existing CSS */
+.fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .mypause:hover {
+    animation-play-state: paused;
+  }
+  
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-marquee {
+    animation: marquee 15s linear infinite;
+  }
+  
+  .color-container{
+    background-color: #00d9a4;
+  }
+.fixed-bottom .center{
+    margin-top: 10px;
+}
+p{
+    font-size:24px;
+    
+}
+.marq{
+  display : inline;
+  background-color: #00d9a4;
+}
+
